@@ -2,6 +2,8 @@
 
 > AWS-native CI/CD delivery workflow for an existing Java application workload using Bitbucket, AWS CodePipeline, AWS CodeBuild, Elastic Beanstalk, and Amazon RDS.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fdb5c021-72ad-4af4-91fa-308af59571fe" />
+
 ## Overview
 
 This project implements an end-to-end AWS-native CI/CD workflow around the VProfile application workload.
