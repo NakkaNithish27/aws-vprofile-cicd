@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/55baee75-6e95-47e0-86ba-675a18366427" />
+
+
 ## 1. Implementation Overview
 
 This project was implemented as a dependency-driven AWS CI/CD workflow around the existing VProfile application workload.
