@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5a1bfc76-7103-4098-9977-211ba84e6e76" />
+
+
 ## 1. Validation Overview
 
 Validation for this project is designed to verify the complete delivery chain rather than only individual AWS services.
