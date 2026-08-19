@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b911224e-972c-4029-bb83-6996f5dad044" />
+
+
 ## 1. Architecture Overview
 
 This project implements an AWS-native CI/CD delivery workflow around the existing VProfile Java application workload.
