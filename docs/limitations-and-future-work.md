@@ -2,6 +2,8 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e96f36ca-57db-4b13-b1d2-1250606a808c" />
+
 ## 1. Overview
 
 This project demonstrates a working AWS-native CI/CD workflow around the existing VProfile application workload.
